@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-Name: Font Awesome Pro
+Bundle-SymbolicName: fontawesomepro
+Package-Type: Web-Service
+Bundle-Version: 1.0.0
+
+Name: lib/lib.spec
+Web-Service: True
+
